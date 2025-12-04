@@ -166,17 +166,13 @@ The game uses ASCII characters to create:
    - Show all cards
    - Show game statistics
 
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests with improvements.
-
 ## 📄 License
 
 This project is for educational purposes.
 
 ## 👥 Authors
 
-**Laura Céspedes Berdonces** - Java Programming Project
+**Laura-cb-dv** - Java Programming Project
 
 ---
 
@@ -342,14 +338,10 @@ El juego usa caracteres ASCII para crear:
    - Mostrar todos los cartones
    - Mostrar estadísticas del juego
 
-## 🤝 Contribuciones
-
-Siéntete libre de hacer fork de este proyecto y enviar pull requests con mejoras.
-
 ## 📄 Licencia
 
 Este proyecto es con fines educativos.
 
 ## 👥 Autores
 
-**Laura Céspedes Berdonces** - Proyecto de Programación Java
+**laura-cb-dv** - Proyecto de Programación Java
